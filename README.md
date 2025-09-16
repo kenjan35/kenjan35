@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est Kenjan
+# 👋 Salut, moi c’est Andry
 
 Bienvenue sur mon profil GitHub !  
 Je suis étudiant passionné par la programmation et les technologies modernes chez 42 Antananarivo.  
