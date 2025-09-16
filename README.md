@@ -20,7 +20,6 @@ Je suis étudiant passionné par la programmation et les technologies modernes c
 
 ## 📫 Me contacter
 - ✉️ Email : ken.andry35@gmail.com
-- 💼 LinkedIn : *ajoute ton LinkedIn ici*
 
 ---
 
