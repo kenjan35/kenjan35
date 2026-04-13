@@ -7,23 +7,24 @@ I'm a student passionate about programming and modern technologies at **42 Antan
 
 ## Skills
 
-![C](https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-111827?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-111827?style=for-the-badge&logo=symfony&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-111827?style=for-the-badge&logo=unity&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kenjan35&show_icons=true&theme=radical&hide_border=true&rank_icon=github&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kenjan35&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=kenjan35&theme=radical&hide_border=true&cache_seconds=86400)
+![GitHub Streak](https://streak-stats.demolab.com?user=kenjan35&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kenjan35&layout=compact&theme=radical&hide_border=true&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kenjan35&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
 ---
 
 ## Contact
