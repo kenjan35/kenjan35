@@ -21,8 +21,9 @@ I'm a student passionate about programming and modern technologies at **42 Antan
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kenjan35&show_icons=true&theme=radical&hide_border=true&rank_icon=github&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kenjan35&layout=compact&theme=radical&hide_border=true&cache_seconds=86400)
+![GitHub Streak](https://streak-stats.demolab.com?user=kenjan35&theme=radical&hide_border=true&cache_seconds=86400)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kenjan35&layout=compact&theme=radical&hide_border=true&cache_seconds=86400)
 ---
 
 ## 📫 Contact
