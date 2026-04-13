@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Andry
+# Hi, I'm Andry
 
 Welcome to my GitHub profile!  
 I'm a student passionate about programming and modern technologies at **42 Antananarivo**.
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 ![C](https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-111827?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -17,7 +17,7 @@ I'm a student passionate about programming and modern technologies at **42 Antan
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kenjan35&show_icons=true&theme=radical&hide_border=true&rank_icon=github&cache_seconds=86400)
 
@@ -26,7 +26,7 @@ I'm a student passionate about programming and modern technologies at **42 Antan
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kenjan35&layout=compact&theme=radical&hide_border=true&cache_seconds=86400)
 ---
 
-## 📫 Contact
+## Contact
 
 - ✉️ Email: ken.andry35@gmail.com
 
