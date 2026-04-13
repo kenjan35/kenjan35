@@ -1,26 +1,34 @@
-# 👋 Salut, moi c’est Andry
+# 👋 Hi, I'm Andry
 
-Bienvenue sur mon profil GitHub !  
-Je suis étudiant passionné par la programmation et les technologies modernes chez 42 Antananarivo.  
-
----
-
-## 🛠️ Compétences
-
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+Welcome to my GitHub profile!  
+I'm a student passionate about programming and modern technologies at **42 Antananarivo**.
 
 ---
 
-## 📊 Stats GitHub
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=kenjan35&show_icons=true&theme=radical)
+## 🛠️ Skills
 
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=kenjan35&layout=compact&theme=radical)
+![C](https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-111827?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-111827?style=for-the-badge&logo=symfony&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-111827?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
 
-## 📫 Me contacter
-- ✉️ Email : ken.andry35@gmail.com
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kenjan35&show_icons=true&theme=radical&hide_border=true&rank_icon=github&cache_seconds=86400)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kenjan35&layout=compact&theme=radical&hide_border=true&cache_seconds=86400)
 
 ---
 
-![](https://komarev.com/ghpvc/?username=kenjan35&color=blue)
+## 📫 Contact
+
+- ✉️ Email: ken.andry35@gmail.com
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=kenjan35&color=blue&style=flat)
