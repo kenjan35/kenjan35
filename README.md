@@ -14,16 +14,14 @@ I'm a student passionate about programming and modern technologies at **42 Antan
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ---
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kenjan35&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=kenjan35&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kenjan35&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 ---
 
